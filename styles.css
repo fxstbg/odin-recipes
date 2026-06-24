@@ -1,8 +1,19 @@
 /* styles.css */
 
-div {
-    color: #eed8cd;
-    background-color: #31032a;
+* {
+    color: #31032a;
+    background-color: #eed8cd;
+/*    outline: 2px solid green; */
 }
+
+#titre {
+    color: #b5137b;
+    background-color: #fde325;
+    padding: 10px;
+    border: 2px solid #b5137b;
+    margin: 60px;
+    text-align: center;
+}
+
 
 	   
