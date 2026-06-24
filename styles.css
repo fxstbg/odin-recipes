@@ -3,6 +3,7 @@
 * {
     color: #31032a;
     background-color: #eed8cd;
+    box-sizing: border-box;
 /*    outline: 2px solid green; */
 }
 
@@ -11,8 +12,10 @@
     background-color: #fde325;
     padding: 10px;
     border: 2px solid #b5137b;
-    margin: 60px;
-    text-align: center;
+    margin: 60px auto;
+    width: 400px;
+    height: 60px;
+    
 }
 
 
